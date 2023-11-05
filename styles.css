@@ -26,6 +26,13 @@ body, html {
     align-items: center;
     justify-content: center;
     text-align: center;
+    justify-content: center;
+    background-image: url(image3.png);
+    background-size: cover; /* Make the background cover the entire area */
+    background-repeat: no-repeat;
+    background-position: 0px 0 px;
+    background-repeat: repeat-y;
+    text-align: center;
 }
 
 .slides1 {
@@ -34,7 +41,7 @@ body, html {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url(image2.png);
+    background-image: url(image3.png);
     background-size: cover; /* Make the background cover the entire area */
     background-repeat: no-repeat;
     background-position: 0px 0 px;
