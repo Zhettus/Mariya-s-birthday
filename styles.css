@@ -68,6 +68,7 @@ body, html {
     animation: fadeIn 2s ease-in-out;
     align-items: center;
     justify-content: center;
+    font-family: "Eras ITC", "Eras Light ITC",  sans-serif;
 }
 
 .green_first {
@@ -75,6 +76,7 @@ body, html {
     animation: fadeIn 2s ease-in-out;
     align-items: center;
     justify-content: center;
+    font-family: "Eras ITC", "Eras Light ITC",  sans-serif;
 }
 
 .scroll-down-text {
@@ -82,6 +84,7 @@ body, html {
     margin-top: 20px;
     animation: pulse 2s ease-in-out infinite;
     cursor: pointer;
+    font-family: "Eras ITC";
 
 }
 ​
@@ -158,13 +161,14 @@ button img {
         margin-right: 35px;
         margin-left: 35px;
         animation: 2s anim-lineUp ease-out;
+        font-family: "Eras Light ITC";
     }
     .centered-text-intro{
         margin-right: 35px;
         margin-left: 35px;
         text-align: center;
         font-size: 2em; 
-        font-family: 'Josefin Sans';
+        font-family: "Eras Light ITC";
         
     }
     .scroll-down-text {
@@ -173,14 +177,24 @@ button img {
         margin-left: 35px;
         text-align: center;
         font-size: 1.2em; 
-        font-family: 'Josefin Sans';
+        font-family: "Eras Light ITC";
     }
+    .scroll-down-text2 {
+        margin-top: 100px;
+        margin-right: 35px;
+        margin-left: 35px;
+        text-align: center;
+        font-size: 1.8em; 
+        font-family: "Eras Light ITC";
+        animation: pulse 2s ease-in-out infinite;
+    }
+
     .h4texts{
         margin-right: 35px;
         margin-left: 35px;
         text-align: center;
         font-size: 1.2em; 
-        font-family: 'Josefin Sans';
+        font-family: "Eras Light ITC";
     }
     .green_first{
         color: rgb(83,123,47);
@@ -188,7 +202,7 @@ button img {
         margin-left: 35px;
         text-align: center;
         font-size: 1.8em; 
-        font-family: 'Josefin Sans';
+        font-family: "Eras Light ITC";
     }
     .green_second{
         color: rgb(45,81,40);
@@ -196,7 +210,7 @@ button img {
         margin-left: 35px;
         text-align: center;
         font-size: 2em; 
-        font-family: 'Josefin Sans';
+        font-family: "Eras Light ITC";
     }
     .other{
         margin-top: 100px;
@@ -204,7 +218,7 @@ button img {
         margin-left: 50px;
         text-align: center;
         font-size: 1.2em; 
-        font-family: 'Josefin Sans';
+        font-family:"Eras Light ITC";
     }
 
     .info {
